@@ -1,2 +1,5 @@
 Git Deneme 01
+
+-Araya ekledim-
+
 Bu bir Deneme Belgesidir.
